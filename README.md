@@ -19,8 +19,8 @@
  <p float="centre">
 <a href="https://twitter.com/mayur_shingote" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mshingote" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mshingote/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mshingote" height="30" width="30" /></a>
-<a href="https://fb.com/mshingote" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mshingote" height="30" width="30" /></a>
-<a href="https://www.instagram.com/mshingote/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mshingote" height="30" width="30" /></a>
+<a href="https://fb.com/shingote.mayur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mshingote" height="30" width="30" /></a>
+<a href="https://www.instagram.com/mayur.shingote/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mshingote" height="30" width="30" /></a>
 </p>
 
 ![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mshingote&show_icons=true)
