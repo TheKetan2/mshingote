@@ -6,7 +6,7 @@
   
 
 <p align="center">
-  <img src="https://github.com/mshingote/mshingote/blob/master/assets/go.gif"  height="120" />
+  <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/go.gif"  height="120" />
 </p>
 
 
