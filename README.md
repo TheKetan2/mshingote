@@ -14,7 +14,7 @@
 
 - 📫 Email **mayurshingote@hotmail.com**
 
-- 💬 Ask me about Golang, Python, Angular and Docker
+- 💬 Ask me about C++, Golang, Python, AWS and Docker
 
  <p float="centre">
 <a href="https://twitter.com/mayur_shingote" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mshingote" height="30" width="30" /></a>
