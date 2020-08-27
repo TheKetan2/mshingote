@@ -12,7 +12,7 @@
 
 # 📫 How to reach me?
 
-- 📫 Email **mayurshingote@hotmail.com**
+- 📫 Email **mayur.shingote@yahoo.com**
 
 - 💬 Ask me about C++, Golang, Python, AWS and Docker
 
